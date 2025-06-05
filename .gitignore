@@ -2,3 +2,6 @@
 /tmp/**
 /config.json
 /*debug*
+/.vscode
+/.vscode//
+.air.toml
